@@ -1,0 +1,91 @@
+{
+  "id": "/noor-light/",
+  "name": "Noor — Discover Islam",
+  "short_name": "Noor",
+  "description": "A warm, honest introduction to Islam — six short steps, the Qur’an, a mosque near you, and a real person to ask.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/noor-light/",
+  "scope": "/noor-light/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#FCFBF7",
+  "theme_color": "#0E8F7E",
+  "categories": [
+    "education",
+    "books",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/noor-light/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noor-light/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noor-light/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Discover Islam",
+      "url": "/noor-light/journey",
+      "icons": [
+        {
+          "src": "/noor-light/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "The Qur’an",
+      "url": "/noor-light/quran",
+      "icons": [
+        {
+          "src": "/noor-light/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Visit a Mosque",
+      "url": "/noor-light/masjid",
+      "icons": [
+        {
+          "src": "/noor-light/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/noor-light/screenshots/home.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Home"
+    },
+    {
+      "src": "/noor-light/screenshots/quran.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "The Qur’an"
+    }
+  ]
+}

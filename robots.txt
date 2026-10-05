@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://ameremad7-lgtm.github.io/noor-light/sitemap.xml
